@@ -13,19 +13,19 @@ $cnpj_sistema = '27.107.588/0001-28';
 
 
 //VARIAVEIS PARA O BANCO DE DADOS LOCAL
-$servidor = 'localhost';
-$usuario = 'root';
-$senha = '';
-$banco = 'pdv';
+// $servidor = 'localhost';
+// $usuario = 'root';
+// $senha = '';
+// $banco = 'pdv';
 
 
-/*
+
 //VARIAVEIS PARA O BANCO HOSPEDAGEM HOSTGATOR (A MINHA)
-$servidor = 'localhost';
-$usuario = 'hugocu75_hugopdv';
-$senha = 'pdvhugo';
-$banco = 'hugocu75_pdv';
-*/
+$servidor = '149.100.155.52';
+$usuario = 'u794174352_erp_8';
+$senha = '3I>FVVUb&60z';
+$banco = 'u794174352_erp_8';
+
 
 
 //VARIAVEIS DE CONFIGURAÇÕES DO SISTEMA
